@@ -1,0 +1,677 @@
+{
+  "actions" : {
+    "CetNuhPuFNYwcTrKtpwjmEaEtqi1" : [ {
+      "delay" : 0.55499999999995,
+      "type" : "EFFECTS/CHANGE_AXIS_EFFECT",
+      "y" : {
+        "effect" : "delay"
+      }
+    }, {
+      "delay" : 2.8150000000000546,
+      "type" : "EFFECTS/DEACTIVATE_EFFECTS",
+      "x" : true,
+      "y" : true
+    }, {
+      "delay" : 12567.11,
+      "index" : 0,
+      "options" : {
+        "octaveAdjustment" : 1
+      },
+      "type" : "OSCILLATORS/UPDATE_OSCILLATOR"
+    }, {
+      "delay" : 1664.1900000000005,
+      "index" : 1,
+      "options" : {
+        "octaveAdjustment" : 0
+      },
+      "type" : "OSCILLATORS/UPDATE_OSCILLATOR"
+    }, {
+      "delay" : 473.45500000000175,
+      "index" : 1,
+      "options" : {
+        "octaveAdjustment" : 1
+      },
+      "type" : "OSCILLATORS/UPDATE_OSCILLATOR"
+    }, {
+      "delay" : 24672.254999999997,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.47403169014084506,
+        "cursorPosition" : 134.625
+      }
+    }, {
+      "delay" : 131.75,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.47403169014084506,
+        "cursorPosition" : 134.625
+      }
+    }, {
+      "delay" : 37.25,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4669894366197183,
+        "cursorPosition" : 132.625
+      }
+    }, {
+      "delay" : 41.47500000000582,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.45994718309859156,
+        "cursorPosition" : 130.625
+      }
+    }, {
+      "delay" : 46.05999999999767,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4564260563380282,
+        "cursorPosition" : 129.625
+      }
+    }, {
+      "delay" : 34.35000000000582,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4529049295774648,
+        "cursorPosition" : 128.625
+      }
+    }, {
+      "delay" : 36.63499999999476,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.445862676056338,
+        "cursorPosition" : 126.625
+      }
+    }, {
+      "delay" : 39.26499999999942,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4352992957746479,
+        "cursorPosition" : 123.625
+      }
+    }, {
+      "delay" : 35.20999999999913,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4282570422535211,
+        "cursorPosition" : 121.625
+      }
+    }, {
+      "delay" : 42.150000000001455,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4212147887323944,
+        "cursorPosition" : 119.625
+      }
+    }, {
+      "delay" : 38.23999999999796,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.4141725352112676,
+        "cursorPosition" : 117.625
+      }
+    }, {
+      "delay" : 32.669999999998254,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.41065140845070425,
+        "cursorPosition" : 116.625
+      }
+    }, {
+      "delay" : 37.41000000000349,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.40360915492957744,
+        "cursorPosition" : 114.625
+      }
+    }, {
+      "delay" : 45.43500000000495,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.3965669014084507,
+        "cursorPosition" : 112.625
+      }
+    }, {
+      "delay" : 38.20499999999447,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.3930457746478873,
+        "cursorPosition" : 111.625
+      }
+    }, {
+      "delay" : 34.80999999999767,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.38952464788732394,
+        "cursorPosition" : 110.625
+      }
+    }, {
+      "delay" : 39.91000000000349,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.38600352112676056,
+        "cursorPosition" : 109.625
+      }
+    }, {
+      "delay" : 44.595000000001164,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.38600352112676056,
+        "cursorPosition" : 109.625
+      }
+    }, {
+      "delay" : 31.62999999999738,
+      "letter" : "Q",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "C4"
+    }, {
+      "delay" : 211.72500000000582,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.3824823943661972,
+        "cursorPosition" : 108.625
+      }
+    }, {
+      "delay" : 81.87499999999272,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.1619718309859155,
+        "cursorPosition" : 46
+      },
+      "y" : {
+        "amount" : 0.3824823943661972,
+        "cursorPosition" : 108.625
+      }
+    }, {
+      "delay" : 456.52999999999884,
+      "letter" : "6",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 911.9749999999985,
+      "letter" : "3",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "D#4"
+    }, {
+      "delay" : 463.8700000000026,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 184.27500000000146,
+      "letter" : "6",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 104.07499999999709,
+      "letter" : "R",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "F4"
+    }, {
+      "delay" : 151.3550000000032,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 1297.2550000000047,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "F4"
+    }, {
+      "delay" : 28.219999999993888,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "D#4"
+    }, {
+      "delay" : 84.70000000000437,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "C4"
+    }, {
+      "delay" : 2963.3849999999948,
+      "type" : "EFFECTS/DEACTIVATE_EFFECTS",
+      "x" : true,
+      "y" : true
+    }, {
+      "delay" : 23225.365000000005,
+      "index" : 1,
+      "options" : {
+        "detune" : 35
+      },
+      "type" : "OSCILLATORS/UPDATE_OSCILLATOR"
+    }, {
+      "delay" : 2550.8150000000023,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4810739436619718,
+        "cursorPosition" : 136.625
+      }
+    }, {
+      "delay" : 177.77499999999418,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4810739436619718,
+        "cursorPosition" : 136.625
+      }
+    }, {
+      "delay" : 35.570000000006985,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.47755281690140844,
+        "cursorPosition" : 135.625
+      }
+    }, {
+      "delay" : 38.17499999998836,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4705105633802817,
+        "cursorPosition" : 133.625
+      }
+    }, {
+      "delay" : 44.43000000000757,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4564260563380282,
+        "cursorPosition" : 129.625
+      }
+    }, {
+      "delay" : 39.504999999990105,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.44938380281690143,
+        "cursorPosition" : 127.625
+      }
+    }, {
+      "delay" : 39.545000000012806,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.445862676056338,
+        "cursorPosition" : 126.625
+      }
+    }, {
+      "delay" : 41.89499999998952,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.43882042253521125,
+        "cursorPosition" : 124.625
+      }
+    }, {
+      "delay" : 42.36500000000524,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4352992957746479,
+        "cursorPosition" : 123.625
+      }
+    }, {
+      "delay" : 45.64999999999418,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4317781690140845,
+        "cursorPosition" : 122.625
+      }
+    }, {
+      "delay" : 51.080000000001746,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.42473591549295775,
+        "cursorPosition" : 120.625
+      }
+    }, {
+      "delay" : 38.620000000009895,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.42473591549295775,
+        "cursorPosition" : 120.625
+      }
+    }, {
+      "delay" : 38.17499999998836,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4212147887323944,
+        "cursorPosition" : 119.625
+      }
+    }, {
+      "delay" : 42.30500000000757,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4212147887323944,
+        "cursorPosition" : 119.625
+      }
+    }, {
+      "delay" : 40.09000000001106,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.4141725352112676,
+        "cursorPosition" : 117.625
+      }
+    }, {
+      "delay" : 60.10999999998603,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.40713028169014087,
+        "cursorPosition" : 115.625
+      }
+    }, {
+      "delay" : 54.245000000009895,
+      "letter" : "Q",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "C4"
+    }, {
+      "delay" : 67.80499999999302,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.40360915492957744,
+        "cursorPosition" : 114.625
+      }
+    }, {
+      "delay" : 58.61500000000524,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.40360915492957744,
+        "cursorPosition" : 114.625
+      }
+    }, {
+      "delay" : 49.55999999999767,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.40360915492957744,
+        "cursorPosition" : 114.625
+      }
+    }, {
+      "delay" : 46.054999999993015,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.40008802816901406,
+        "cursorPosition" : 113.625
+      }
+    }, {
+      "delay" : 41.51000000000931,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.3930457746478873,
+        "cursorPosition" : 111.625
+      }
+    }, {
+      "delay" : 38.92500000000291,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.38952464788732394,
+        "cursorPosition" : 110.625
+      }
+    }, {
+      "delay" : 42.98499999998603,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.38600352112676056,
+        "cursorPosition" : 109.625
+      }
+    }, {
+      "delay" : 46.19000000001688,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16901408450704225,
+        "cursorPosition" : 48
+      },
+      "y" : {
+        "amount" : 0.38600352112676056,
+        "cursorPosition" : 109.625
+      }
+    }, {
+      "delay" : 81.8299999999872,
+      "type" : "EFFECTS/UPDATE_EFFECTS_AMOUNT",
+      "x" : {
+        "amount" : 0.16549295774647887,
+        "cursorPosition" : 47
+      },
+      "y" : {
+        "amount" : 0.38600352112676056,
+        "cursorPosition" : 109.625
+      }
+    }, {
+      "delay" : 147.60000000000582,
+      "letter" : "6",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 760.7949999999983,
+      "letter" : "3",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "D#4"
+    }, {
+      "delay" : 34.45000000001164,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "G#4"
+    }, {
+      "delay" : 710.4449999999924,
+      "letter" : "R",
+      "type" : "NOTES/ADD_NOTE",
+      "value" : "F4"
+    }, {
+      "delay" : 861.7949999999983,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "F4"
+    }, {
+      "delay" : 32.01499999999942,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "D#4"
+    }, {
+      "delay" : 35.28500000000349,
+      "type" : "NOTES/REMOVE_NOTE",
+      "value" : "C4"
+    }, {
+      "delay" : 2018.4249999999884,
+      "type" : "EFFECTS/DEACTIVATE_EFFECTS",
+      "x" : true,
+      "y" : true
+    } ]
+  },
+  "cassettes" : {
+    "CetNuhPuFNYwcTrKtpwjmEaEtqi1" : {
+      "initialState" : {
+        "effects" : {
+          "x" : {
+            "active" : false,
+            "amount" : 0,
+            "cursorPosition" : 0,
+            "name" : "filter",
+            "options" : {
+              "filterType" : "lowpass",
+              "resonance" : 10
+            }
+          },
+          "y" : {
+            "active" : false,
+            "amount" : 0,
+            "cursorPosition" : 0,
+            "name" : "distortion",
+            "options" : {
+              "amount" : 0,
+              "clarity" : 1
+            }
+          }
+        },
+        "isAdmin" : false,
+        "onboarding" : {
+          "keysPressed" : 0,
+          "padUpdates" : 0,
+          "stage" : "completed"
+        },
+        "oscillators" : [ {
+          "detune" : 0,
+          "gain" : 0.5,
+          "octaveAdjustment" : 0,
+          "waveform" : "triangle"
+        }, {
+          "detune" : 0,
+          "gain" : 0.15,
+          "octaveAdjustment" : -1,
+          "waveform" : "square"
+        } ]
+      },
+      "numOfActions" : 71,
+      "timestamp" : 1498672182761
+    }
+  }
+}
